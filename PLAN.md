@@ -143,10 +143,10 @@ Issues assigned to you:
   overby.me/core#3mh4g  Bug in auth flow
 
 PRs awaiting your review:
-  tangled/core#3mgz7n   Add AVIF support
+  platform/tangled/core#3mgz7n   Add AVIF support
 
 Your open PRs:
-  tangled/core#3mgfge   Add shebang detection
+  platform/tangled/core#3mgfge   Add shebang detection
 ```
 
 Implementation:
